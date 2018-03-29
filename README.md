@@ -2,4 +2,4 @@
 trailhead
 -->
 Checking child2
-Child3
+Child 3
